@@ -3,7 +3,7 @@ def base_hash
   # keyword "return." Nice and neat.
   
   new_hash = {
-    railroads: nil
+    railroads: {}
   }
 
 end
