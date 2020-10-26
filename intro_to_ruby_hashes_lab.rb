@@ -65,16 +65,16 @@ def monopoly_with_fourth_tier
         }, 
       names: {
         reading_railroad: {
-          morgage_values: 100
+          mortgage_values: 100
         },
         pennsylvania_railroad: {
-          morgage_values: 200
+          mortgage_values: 200
         },
         b_and_o_railroad: {
-          morgage_values: 400
+          mortgage_values: 400
         },
         shortline_railroad: {
-          morgage_values: 800
+          mortgage_values: 800
         }
       }
     }
